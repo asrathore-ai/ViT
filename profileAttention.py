@@ -1,7 +1,7 @@
 import torch 
 from Attention import Transformer
 import time 
-
+# AI GENERATED
 # --- Profiling Setup ---
 B = 4
 seq_len = 768
